@@ -4,8 +4,8 @@
 $BASE_URL = 'http://localhost/newsletterrobenhood'; // change if needed
 
 // DB
-// $DB_HOST = 'localhost';
-$DB_HOST = 'localhost:3309';
+$DB_HOST = 'localhost';
+// $DB_HOST = 'localhost:3309';
 $DB_USER = 'root';
 $DB_PASS = ''; // your DB password
 $DB_NAME = 'newsletterrobenhood'; // your DB name
